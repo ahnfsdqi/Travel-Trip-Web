@@ -11,17 +11,10 @@ Buka file index.html menggunakan browser kesayangan Anda atau jalankan via Live 
 
 Project ini dikembangkan dengan dedikasi penuh oleh Naufal Project.
 
-
-with open("README.md", "w", encoding="utf-8") as f:
-f.write(readme_content)
-
-print("File README.md berhasil dibuat.")
-
 Berikut adalah draf isi file `README.md` yang lengkap, terstruktur dengan rapi, dan profesional untuk website **AhnfTrip** milikmu, bro. 
 
 Isi ini sudah mencakup deskripsi project, fitur utama, teknologi yang digunakan, struktur folder, hingga cara menjalankannya secara lokal:
 
-markdown
 # AhnfTrip - East Java Travel & Trip Landing Page
 
 AhnfTrip adalah sebuah website *landing page* modern, responsif, dan dinamis yang dirancang khusus untuk mempromosikan keindahan destinasi wisata alam di Jawa Timur, Indonesia. Project ini dibuat sebagai platform informasi sekaligus katalog visual interaktif bagi para wisatawan yang ingin mengeksplorasi potensi wisata lokal.
